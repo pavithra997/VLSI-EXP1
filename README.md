@@ -48,21 +48,20 @@ To design and simulate a CMOS inverter circuit using Synopsys EDA tools, analyze
 ![image](https://github.com/user-attachments/assets/e3e06487-52b2-4b56-9dcd-03c5c9394a4c)
 
 #### 2. Schematic of CMOS Inverter:
+<img width="830" height="626" alt="image" src="https://github.com/user-attachments/assets/d6d1e5b6-fea6-4219-b77d-69cfc725a011" />
 
- <img width="830" height="626" alt="EXP1 - Schematic Design" src="https://github.com/user-attachments/assets/1021b799-a0f4-4609-bc72-6ea804af5174" />
   
 
 
 #### 3. Transient Response Setup:
+<img width="1534" height="816" alt="image" src="https://github.com/user-attachments/assets/58f23784-6000-4687-a485-c8c850dd0f4b" />
 
-
-<img width="1534" height="816" alt="EXP1 - Transient Response Setup" src="https://github.com/user-attachments/assets/5ff0eb31-0b8e-41a8-b65e-ed13987fa7a1" />
 
 
 ## Output
 #### 1.Transient Analysis  Output
+<img width="1534" height="586" alt="image" src="https://github.com/user-attachments/assets/acd2ef34-2099-481b-ae30-fdcb83732f49" />
 
-<img width="1534" height="586" alt="EXP1 - Output Waveform" src="https://github.com/user-attachments/assets/989015cc-b3d2-43e5-8710-71c6a2c19ddf" />
 
 
 ## Results:
